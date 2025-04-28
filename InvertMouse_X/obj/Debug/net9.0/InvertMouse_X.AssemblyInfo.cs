@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InvertMouse_X")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+136d2f410ec4a7dc6a218c491b7136bcf2c3e940")]
 [assembly: System.Reflection.AssemblyProductAttribute("InvertMouse_X")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InvertMouse_X")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

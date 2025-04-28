@@ -12,3 +12,4 @@
 /home/kaydee/RiderProjects/InvertMouse_X/InvertMouse_X/obj/Debug/net9.0/InvertMouse_X.pdb
 /home/kaydee/RiderProjects/InvertMouse_X/InvertMouse_X/obj/Debug/net9.0/InvertMouse_X.genruntimeconfig.cache
 /home/kaydee/RiderProjects/InvertMouse_X/InvertMouse_X/obj/Debug/net9.0/ref/InvertMouse_X.dll
+/home/kaydee/RiderProjects/InvertMouse_X/InvertMouse_X/obj/Debug/net9.0/InvertMouse_X.sourcelink.json
