@@ -1,4 +1,4 @@
-# Input-Disabler-Keyboard
+# Invert-Mouse-xAxis
 This is an application created in C# in Jetbrains Rider, to work on Linux Mint 21.2. This will Invert the mouse on the x-Axis only for 30seconds. while creating a log file for each execution and a timer files to link to OBS or xSplit Broadcaster for countdowns during streaming sessions.
 
 
